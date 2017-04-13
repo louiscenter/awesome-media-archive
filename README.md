@@ -4,3 +4,4 @@ A curated list of open source tools for archiving audio & video data for offline
 ## Command-line apps
 * [youtube-dl](https://github.com/rg3/youtube-dl/) Archive audio & video from sites like YouTube & Soundcloud
 * [download-m3u8](https://github.com/mafintosh/download-m3u8/) Download an m3u8 playlist and all assets it links
+* [instavim](https://github.com/codedotjs/instavim) Download videos available on Instagram directly from command line
