@@ -6,3 +6,4 @@ A curated list of open source tools for archiving audio & video data for offline
 * [download-m3u8](https://github.com/mafintosh/download-m3u8/) Download an m3u8 playlist and all assets it links
 * [instavim](https://github.com/codedotjs/instavim) Download videos available on Instagram directly from command line
 * [soundscrape](https://github.com/Miserlou/SoundScrape) Download audio (with metadata & album art) from SoundCloud, Bandcamp, and MixCloud
+* [you-get](https://github.com/soimort/you-get) Download media contents (videos, audios, images) from the Web
